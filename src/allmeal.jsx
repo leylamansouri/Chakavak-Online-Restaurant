@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import Allmealmykafe from "./AllData"
-
+import
 function Allmeal() {
     const breakfastItems = Allmealmykafe.breakfast;
     const lunchItems = Allmealmykafe.lunches;
